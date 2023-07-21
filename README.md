@@ -29,7 +29,20 @@ To integrate the custom video player into your project, you will need the follow
 
 You can customize the appearance and behavior of the video player by modifying the `styles.css` and `script.js` files to suit your project's needs.
 
-The `index.html` file contains the following structure:
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+1. **Fork the repository on GitHub.**
+2. **Create a new branch with a descriptive name.**
+3. **Make your changes and commit them.**
+4. **Push your changes to your forked repository.**
+5. **Submit a pull request to the main repository.**
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 
 
 
